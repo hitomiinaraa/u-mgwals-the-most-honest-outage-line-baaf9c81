@@ -1,3 +1,4 @@
+// Revision pass: one honest status-page line, no decoration, no guessing.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
